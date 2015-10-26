@@ -43,7 +43,7 @@ Write a function
 ```javascript
 function solution3(A, F);
 ```
-that calls a function **F** on the elements an array **A** and returns an array of results. So, it acts similar to the native JS Array [map method](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/map). But unlike the native method, your solution should accept strings as an **F** argument in the following simplified [arrow function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions) format:
+that calls a function **F** on the elements of an array **A** and returns an array of results. So, it acts similar to the native JS Array [map method](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/map). But unlike the native method, your solution should accept a string as an **F** argument in the following simplified [arrow function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions) format:
 
 ```javascript
 (param1, param2, paramN) => expression
