@@ -10,10 +10,12 @@ that given an array **A** returns a minimal positive **integer** not present in 
 
 ### Assumptions
 - an array **A** contains valid JavaScript numbers (both positive and negative)
-### Example
 
-- *input:* [1,5,4,2]
-- *output:* 3
+### Examples
+|input|output|
+|---|---|
+|`[1,5,4,2]`|`3`|
+
 ---
 
 ## Task 2
